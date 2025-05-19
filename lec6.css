@@ -1,0 +1,41 @@
+h1{
+    color: rgb(28, 9, 237);
+    background-color:pink ;
+    
+}
+
+h4{
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    
+
+}
+
+p{
+    color: rgb(255, 255, 255);
+    background-color: green;
+    
+}
+
+button{
+    color: rgb(255, 255, 255);
+    background-color: red;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.heading{
+    font-size: 30px;
+    color: antiquewhite;
+    background-color: blue;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 5px;
+    background-color: rgb(239, 239, 211);
+    text-align: center;
+}
