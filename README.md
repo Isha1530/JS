@@ -15,3 +15,5 @@ Lecture 5: Functions & Methods
 Lecture 6,7 : DOM - Document Object Model
 <br>
 Lecture 8 : Events in JavaScript 
+<br>
+Lecture 9 : Tic Tac Toe Game
