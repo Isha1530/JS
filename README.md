@@ -13,3 +13,5 @@ Lecture 4: Arrays
 Lecture 5: Functions & Methods
 <br>
 Lecture 6,7 : DOM - Document Object Model
+<br>
+Lecture 8 : Events in JavaScript 
