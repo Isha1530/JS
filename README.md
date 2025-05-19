@@ -11,3 +11,5 @@ Lecture 3: Loops and Strings
 Lecture 4: Arrays
 <br>
 Lecture 5: Functions & Methods
+<br>
+Lecture 6,7 : DOM - Document Object Model
