@@ -17,3 +17,11 @@ Lecture 6,7 : DOM - Document Object Model
 Lecture 8 : Events in JavaScript 
 <br>
 Lecture 9 : Tic Tac Toe Game
+<br>
+Lecture 10 : MiniProject - Stone, Paper & Scissors Game
+<br>
+Lecture 11 : Classes & Objects
+<br>
+Lecture 12 : Callbacks, Promises & Async Await
+<br>
+Lecture 13 : Fetch API with Project
